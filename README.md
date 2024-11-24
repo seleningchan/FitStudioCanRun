@@ -1,2 +1,2 @@
 # FitStudioCanRun
-# Total project upload in baudu pan
+# Total project upload in baidu pan
